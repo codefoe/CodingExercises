@@ -15,7 +15,8 @@ public class MyClass {
         result.addAll(list1);
         result.addAll(list2);
         for (Integer x : result) {
-            System.out.println(x);
+            System.out.println(x);System.out.println("Hello World");
+
         }
     }
 }
